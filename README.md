@@ -17,9 +17,7 @@ I'm currently building my skills toward a Python Developer role, with hands-on e
 
 **Student Grade & Attendance Analyzer**  
 A Python and Pandas-based tool for cleaning raw academic data, computing student performance metrics, and generating visual reports.  
-
-**Smart Expense Tracker & Budget Advisor**  
-Final-year academic project — a personal finance tracking and budgeting tool.  
+https://github.com/NephyJina/Student_Analyzer
 
 ## Connect
 
