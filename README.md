@@ -11,7 +11,7 @@ I'm currently building my skills toward a Python Developer role, with hands-on e
 **Languages:** Python
 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn  
 **Development Tools:** Git, GitHub, VS Code
-**Currently Learning:** FastAPStreamlit
+**Currently Learning:** Streamlit
 
 ## Projects
 
@@ -23,4 +23,4 @@ Final-year academic project — a personal finance tracking and budgeting tool.
 
 ## Connect
 
-LinkedIn: [Nephy](www.linkedin.com/in/nephy-jina-dev)
+LinkedIn: [Nephy](https://www.linkedin.com/in/nephy-jina-dev)
