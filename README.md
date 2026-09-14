@@ -23,5 +23,4 @@ Final-year academic project — a personal finance tracking and budgeting tool.
 
 ## Connect
 
-LinkedIn: [Nephy](www.linkedin.com/in/
-nephy-jina-dev)
+LinkedIn: [Nephy](www.linkedin.com/in/nephy-jina-dev)
