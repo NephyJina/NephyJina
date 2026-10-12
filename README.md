@@ -19,10 +19,6 @@ I'm currently building my skills toward a Python Developer role, with hands-on e
 A Python and Pandas-based tool for cleaning raw academic data, computing student performance metrics, and generating visual reports.  
 https://github.com/NephyJina/Student_Analyzer
 
-**Smart Expense Tracker & Budget Advisor**
-A fintech-style personal finance dashboard with expense tracking, interactive analytics, and ML-based budget forecasting (Linear Regression, Random Forest, Decision Tree) — built with **Streamlit**, **Plotly**, and **Scikit-learn**.
-https://github.com/NephyJina/Smart_Expense_Tracker
-
 ## Connect
 
 LinkedIn: [Nephy](https://www.linkedin.com/in/nephy-jina-dev)
