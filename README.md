@@ -1,6 +1,6 @@
 # Nephy Jina
 
-Final-year B.Sc Information Technology student with a focus on Python development and data analysis.
+Final-year B.Sc Information Technology student with a focus on Python development and Artificial Intelligence
 
 ## About
 
