@@ -21,17 +21,21 @@ A Python and Pandas-based tool for cleaning raw academic data, computing student
 
 https://github.com/NephyJina/Student_Analyzer
 
+
 **IT Company Expense Manager**
 
 A multi-user expense management web app for IT companies. Employees submit expense claims, the admin approves or rejects them, and a 
 machine learning model forecasts next month's budget.
 **Tech:** Python, Streamlit, SQLite, scikit-learn, Plotly.
+
 https://github.com/NephyJina/it-company-expense-manager
+
 
 **Python desktop companion**
 A Jiji-inspired desktop companion for Windows, built with Python and Tkinter. Tracks working status and screen time, with blinking 
 eyes, wiggling ears and cute reactions. 
 **Tech:** Python. 
+
 https://github.com/NephyJina/jiji-desk-buddy.git
 
 ## Connect
