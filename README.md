@@ -17,8 +17,8 @@ I'm currently building my skills toward a Python Developer role, with hands-on e
 
 **Student Grade & Attendance Analyzer**  
 
-A Python and Pandas-based tool for cleaning raw academic data, computing student performance metrics, and generating visual reports.
-**Tech:** Python, Pandas, Numpy
+A Python and Pandas-based tool for cleaning raw academic data, computing student performance metrics, and generating visual reports. 
+**Tech:** Python, Pandas, Numpy 
 https://github.com/NephyJina/Student_Analyzer
 
 **IT Company Expense Manager**
@@ -28,8 +28,8 @@ A multi-user expense management web app for IT companies. Employees submit expen
 https://github.com/NephyJina/it-company-expense-manager
 
 **Python desktop companion**
-A Jiji-inspired desktop companion for Windows, built with Python and Tkinter. Tracks working status and screen time, with blinking eyes, wiggling ears and cute reactions.
-**Tech:** Python.
+A Jiji-inspired desktop companion for Windows, built with Python and Tkinter. Tracks working status and screen time, with blinking eyes, wiggling ears and cute reactions. 
+**Tech:** Python. 
 https://github.com/NephyJina/jiji-desk-buddy.git
 
 ## Connect
