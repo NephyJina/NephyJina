@@ -32,6 +32,7 @@ https://github.com/NephyJina/it-company-expense-manager
 
 
 **Python desktop companion**
+
 A Jiji-inspired desktop companion for Windows, built with Python and Tkinter. Tracks working status and screen time, with blinking 
 eyes, wiggling ears and cute reactions. 
 **Tech:** Python. 
