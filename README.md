@@ -27,6 +27,11 @@ A multi-user expense management web app for IT companies. Employees submit expen
 **Tech:** Python, Streamlit, SQLite, scikit-learn, Plotly
 https://github.com/NephyJina/it-company-expense-manager
 
+**Python desktop companion**
+A Jiji-inspired desktop companion for Windows, built with Python and Tkinter. Tracks working status and screen time, with blinking eyes, wiggling ears and cute reactions.
+**Tech:** Python.
+https://github.com/NephyJina/jiji-desk-buddy.git
+
 ## Connect
 
 LinkedIn: [Nephy](https://www.linkedin.com/in/nephy-jina-dev)
